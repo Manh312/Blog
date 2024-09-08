@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manh312/Blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "manh312",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manh312/Blog/issues"
+  },
+  "homepage": "https://github.com/Manh312/Blog#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
